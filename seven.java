@@ -1,9 +1,10 @@
 //short type
 
 
-class Shiva{
-    public static void main(String[] args){
-        Short a=1432;
-        System.out.println(a);
+class Sneha{
+    public static void  main(String[] args){
+        short A=3467;
+        System.out.println(A);
+        
     }
 }
